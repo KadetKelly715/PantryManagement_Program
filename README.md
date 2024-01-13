@@ -10,11 +10,15 @@ I had a million ideas swirling in my head regarding functions this app could or 
 
 
 # Technologies Used:
- **Language:**
- **Data Format:**
- **Data Processing:**
- **Data Visualization:**
+**Python Programming Language:** The backbone of the project, used for writing the main program logic, handling data processing, and user interaction.
+**Pandas Library:** Employed for reading from and writing to Excel files, as well as for data manipulation and analysis.
+**Excel File Handling:** The project uses Excel as a database to store and manage data across multiple sheets.
+**Procedural Programming Approach:** Used for structuring the code in functions for various tasks like checking inventory, updating inventory, and managing recipes.
+**Text-based User Interface:** Implemented within the console for easy navigation and interaction by the users.
 
 
-# Highlights
-highlights...
+# Areas of Improvement:
+**Error Handling and Data Validation:** Implementing comprehensive error handling and robust data validation to ensure the reliability and stability of the program.
+**Efficiency in Data Handling:** Optimizing data handling by minimizing file I/O operations and considering a shift to database systems for larger datasets.
+**User Interface Enhancements:** Upgrading the user interface for improved usability and user experience, potentially moving to a graphical user interface.
+**Code Quality and Maintainability:** Enhancing code readability, documentation, and maintainability through better naming conventions and extensive commenting.
